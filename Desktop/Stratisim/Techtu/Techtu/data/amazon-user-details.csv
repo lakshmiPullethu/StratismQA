@@ -1,0 +1,4 @@
+user_Email, pwd, FullName, Address1, Address2, AddressCity,State, PostalCode, Phno,CountryCode, ccName,ccNo, csvCode
+user1@gmail.com,password1,User One,38640 Hastings St, 105,Fremont, CA, 94536,5109999999,United States,User One,999999,111
+user2@gmail.com,password2,User Two,38640 HSxxxStreet,102, Fremont, CA,94533,610XXXXXXX, UnitedStates,User Two,99999999,222
+user3@gmail.com,password3,User Three,  38640 HSxxxStreet,103, Fremont, CA,94534,710XXXXXXX, UnitedStates,User Three,99999945,333
